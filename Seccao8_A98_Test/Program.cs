@@ -8,6 +8,7 @@ namespace Seccao8_A98_Test
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia");
+            Console.WriteLine("Como voce está hoje?");
 
 
             Console.ReadLine();
